@@ -1,0 +1,76 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-gb">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- #BeginEditable "doctitle" -->
+<title>Bellatrix</title>
+<!-- #EndEditable -->
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'button1A.jpg', /*url*/'button1B.jpg', /*url*/'button21.jpg', /*url*/'button22.jpg', /*url*/'button2E.jpg', /*url*/'button2F.jpg', /*url*/'button3B.jpg', /*url*/'button3C.jpg')">
+
+<p align="center"><span style="letter-spacing: 5pt; font-weight: 700"><i>
+<font face="Myriad Web" size="7">Bellatrix</font></i></span></p>
+<p align="center">
+<img border="0" src="234_header_head.jpg" width="231" height="70"></p>
+<p align="center">&nbsp;</p>
+<p align="center">
+<img border="0" src="MM-East-View.gif" width="920" height="392"></p>
+<p align="center">&nbsp;</p>
+<p align="center">
+<img border="0" src="34738pg1_B30_totale.jpg" width="400" height="261">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="bavaria_30_cruiser-pic11.jpg" width="300" height="451"> </p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;<img border="0" src="bavaria_30_cruiser-pic15.jpg" width="300" height="456">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="bavaria_30_cruiser-pic13.jpg" width="523" height="348">&nbsp;
+</p>
+<p align="center">
+________________________________________________________________</p>
+<p align="center">
+<a target="_blank" href="http://www.met.ie/forecasts/sea-area.asp">
+<img border="0" id="img1" src="button19.jpg" height="30" width="149" alt="Latest Weather" fp-style="fp-btn: Jewel 1; fp-font-size: 12" fp-title="Latest Weather" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button1A.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button19.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button1B.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button1A.jpg')"></a></p>
+<p align="center">
+<a target="_blank" href="http://easytide.ukho.gov.uk/EasyTide/EasyTide/SelectPort.aspx">
+<img border="0" id="img4" src="button3A.jpg" height="30" width="149" alt="Tide Predictions" fp-style="fp-btn: Jewel 4; fp-font-size: 12" fp-title="Tide Predictions" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'button3B.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'button3A.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'button3C.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'button3B.jpg')"></a></p>
+<p align="center">
+_______________________________________________________________</p>
+<p align="center">
+<a href="mailto:crew@bellatrix.ie?subject=Crew Contact - Bellatrix">
+<img border="0" id="img2" src="button20.jpg" height="20" width="100" alt="CREW e-Mail" fp-style="fp-btn: Braided Row 3; fp-font-color-hover: #800080; fp-font-color-press: #0000FF" fp-title="CREW e-Mail" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'button21.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'button20.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'button22.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'button21.jpg')"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:info@bellatrix.ie?subject=Info re - Bellatrix">
+<img border="0" id="img3" src="button2D.jpg" height="21" width="105" alt="Info e-Mail" fp-style="fp-btn: Braided Row 1; fp-font-color-hover: #800080; fp-font-color-press: #0000FF" fp-title="Info e-Mail" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'button2E.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'button2D.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'button2F.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'button2E.jpg')"></a></p>
+<p align="center">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="center">&nbsp;</p>
+
+</body>
+
+</html>
